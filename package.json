@@ -1,0 +1,27 @@
+{
+  "name": "kyx",
+  "version": "1.0.0",
+  "description": "keyax nodejs multilingual",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keyax/kyx.git"
+  },
+  "keywords": [
+    "keyax",
+    "nodejs",
+    "multilingual"
+  ],
+  "author": "Yones Lebady",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/keyax/kyx/issues"
+  },
+  "homepage": "https://github.com/keyax/kyx#readme",
+  "dependencies": {
+    "mongodb": "^2.2.16"
+  }
+}
