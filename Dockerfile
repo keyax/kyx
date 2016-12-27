@@ -1,5 +1,5 @@
 #
-# Ubuntu Dockerfile  keyax multilinguales  internacionales
+# Ubuntu Dockerfile
 #
 # https://github.com/dockerfile/ubuntu
 #
